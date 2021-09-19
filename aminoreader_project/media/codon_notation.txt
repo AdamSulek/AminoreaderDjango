@@ -1,0 +1,453 @@
+
+
+     Alignment: C:\Users\PostDoc\Desktop\subcloning (1).txt
+
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                 5          15         25         35         45         55                     
+PLpro4subc   CAAGGAGATG GCGCCCAACA GTCCCCCGGC CACGGGGCCT GCCACCATAC CCACGCCGAA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                 65         75         85         95        105        115                   
+PLpro4subc   ACAAGCGCTC ATGAGCCCGA AGTGGCGAGC CCGATCTTCC CCATCGGTGA TGTCGGCGAT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                125        135        145        155        165        175               
+PLpro4subc   ATAGGCGCCA GCAACCGCAC CTGTGGCGCC GGTGATGCCG GCCACGATGC GTCCGGCGTA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                185        195        205        215        225        235               
+PLpro4subc   GAGGATCGAG ATCTCGATCC CGCGAAATTA ATACGACTCA CTATAGGGGA ATTGTGAGCG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                245        255        265        275        285        295               
+PLpro4subc   GATAACAATT CCCCTCTAGA AATAATTTTG TTTAACTTTA AGAAGGAGAT ATACATATGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                305        315        325        335        345        355               
+PLpro4subc   ATCATCACCA TCACCATGGT AAGCCTATCC CTAACCCTCT CCTCGGTCTC GATTCTACGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                365        375        385        395        405        415               
+PLpro4subc   AAAACCTGTA TTTTCAGGGA ATTGATCCCT TCACCGAAGT GCGTACCATT AAAGTTTTTA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                425        435        445        455        465        475               
+PLpro4subc   CCACCGTGGA TAACATCAAC CTGCATACCC AGGTTGTTGA TATGAGCATG ACCTATGGTC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                485        495        505        515        525        535               
+PLpro4subc   AGCAGTTTGG TCCGACCTAT CTGGATGGTG CAGATGTTAC CAAAATCAAA CCGCATAATA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                545        555        565        575        585        595               
+PLpro4subc   GCCATGAAGG CAAAACCTTT TATGTGCTGC CGAATGATGA TACCCTGCGT GTTGAAGCAT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                605        615        625        635        645        655               
+PLpro4subc   TTGAGTATTA TCATACCACC GATCCGAGCT TTCTGGGTCG TTATATGAGC GCACTGAATC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                665        675        685        695        705        715               
+PLpro4subc   ATACCAAAAA ATGGAAATAT CCGCAGGTTA ATGGTCTGAC CAGCATTAAA TGGGCAGATA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                725        735        745        755        765        775               
+PLpro4subc   ATAACTGTTA TCTGGCAACC GCACTGCTGA CACTGCAGCA GATTGAACTG AAATTTAACC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                785        795        805        815        825        835               
+PLpro4subc   CTCCGGCACT GCAGGATGCC TATTATCGTG CACGTGCCGG TGAAGCAGCA AATTTTTGTG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                845        855        865        875        885        895               
+PLpro4subc   CACTGATTCT GGCCTATTGC AACAAAACCG TTGGTGAACT GGGTGATGTT CGTGAAACCA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                905        915        925        935        945        955               
+PLpro4subc   TGAGCTACCT GTTTCAGCAT GCAAATCTGG ATAGCTGTAA ACGTGTTCTG AATGTTGTTT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                965        975        985        995        1005       1015              
+PLpro4subc   GTAAAACCTG CGGTCAGCAG CAGACCACAC TGAAAGGTGT GGAAGCAGTT ATGTATATGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1025       1035       1045       1055       1065       1075              
+PLpro4subc   GCACCCTGAG CTATGAACAG TTCAAAAAAG GTGTTCAGAT TCCGTGTACC TGTGGTAAAC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1085       1095       1105       1115       1125       1135              
+PLpro4subc   AGGCAACCAA ATATCTGGTT CAGCAAGAAA GCCCGTTTGT GATGATGAGT GCACCGCCTG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1145       1155       1165       1175       1185       1195              
+PLpro4subc   CACAGTATGA GCTGAAACAT GGCACCTTTA CCTGTGCAAG CGAATACACC GGTAATTATC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1205       1215       1225       1235       1245       1255              
+PLpro4subc   AGTGTGGCCA TTATAAACAC ATCACCAGCA AAGAAACCCT GTATTGTATT GATGGTGCCC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1265       1275       1285       1295       1305       1315              
+PLpro4subc   TGCTGACAAA AAGCAGCGAA TATAAAGGTC CGATTACCGA CGTGTTCTAT AAAGAAAATA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1325       1335       1345       1355       1365       1375              
+PLpro4subc   GCTACACCAC CACCATCAAA TAATGAAAGG GCGAGCTCAG ATCCGGCTGC TAACAAAGCC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1385       1395       1405       1415       1425       1435              
+PLpro4subc   CGAAAGGAAG CTGAGTTGGC TGCTGCCACC GCTGAGCAAT AACTAGCATA ACCCCTTGGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1445       1455       1465       1475       1485       1495              
+PLpro4subc   GCCTCTAAAC GGGTCTTGAG GGGTTTTTTG CTGAAAGGAG GAACTATATC CGGATATCCC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1505       1515       1525       1535       1545       1555              
+PLpro4subc   GCAAGAGGCC CGGCAGTACC GGCATAACCA AGCCTATGCC TACAGCATCC AGGGTGACGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1565       1575       1585       1595       1605       1615              
+PLpro4subc   TGCCGAGGAT GACGATGAGC GCATTGTTAG ATTTCATACA CGGTGCCTGA CTGCGTTAGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1625       1635       1645       1655       1665       1675              
+PLpro4subc   AATTTAACTG TGATAAACTA CCGCATTAAA GCTAGCTTAT CGATGATAAG CTGTCAAACA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1685       1695       1705       1715       1725       1735              
+PLpro4subc   TGAGAATTAA TTCTTGAAGA CGAAAGGGCC TCGTGATACG CCTATTTTTA TAGGTTAATG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1745       1755       1765       1775       1785       1795              
+PLpro4subc   TCATGATAAT AATGGTTTCT TAGACGTCAG GTGGCACTTT TCGGGGAAAT GTGCGCGGAA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1805       1815       1825       1835       1845       1855              
+PLpro4subc   CCCCTATTTG TTTATTTTTC TAAATACATT CAAATATGTA TCCGCTCATG AGACAATAAC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1865       1875       1885       1895       1905       1915              
+PLpro4subc   CCTGATAAAT GCTTCAATAA TATTGAAAAA GGAAGAGTAT GAGTATTCAA CATTTCCGTG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1925       1935       1945       1955       1965       1975              
+PLpro4subc   TCGCCCTTAT TCCCTTTTTT GCGGCATTTT GCCTTCCTGT TTTTGCTCAC CCAGAAACGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                1985       1995       2005       2015       2025       2035              
+PLpro4subc   TGGTGAAAGT AAAAGATGCT GAAGATCAGT TGGGTGCACG AGTGGGTTAC ATCGAACTGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2045       2055       2065       2075       2085       2095              
+PLpro4subc   ATCTCAACAG CGGTAAGATC CTTGAGAGTT TTCGCCCCGA AGAACGTTTT CCAATGATGA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2105       2115       2125       2135       2145       2155              
+PLpro4subc   GCACTTTTAA AGTTCTGCTA TGTGGCGCGG TATTATCCCG TGTTGACGCC GGGCAAGAGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2165       2175       2185       2195       2205       2215              
+PLpro4subc   AACTCGGTCG CCGCATACAC TATTCTCAGA ATGACTTGGT TGAGTACTCA CCAGTCACAG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2225       2235       2245       2255       2265       2275              
+PLpro4subc   AAAAGCATCT TACGGATGGC ATGACAGTAA GAGAATTATG CAGTGCTGCC ATAACCATGA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2285       2295       2305       2315       2325       2335              
+PLpro4subc   GTGATAACAC TGCGGCCAAC TTACTTCTGA CAACGATCGG AGGACCGAAG GAGCTAACCG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2345       2355       2365       2375       2385       2395              
+PLpro4subc   CTTTTTTGCA CAACATGGGG GATCATGTAA CTCGCCTTGA TCGTTGGGAA CCGGAGCTGA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2405       2415       2425       2435       2445       2455              
+PLpro4subc   ATGAAGCCAT ACCAAACGAC GAGCGTGACA CCACGATGCC TGCAGCAATG GCAACAACGT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2465       2475       2485       2495       2505       2515              
+PLpro4subc   TGCGCAAACT ATTAACTGGC GAACTACTTA CTCTAGCTTC CCGGCAACAA TTAATAGACT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2525       2535       2545       2555       2565       2575              
+PLpro4subc   GGATGGAGGC GGATAAAGTT GCAGGACCAC TTCTGCGCTC GGCCCTTCCG GCTGGCTGGT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2585       2595       2605       2615       2625       2635              
+PLpro4subc   TTATTGCTGA TAAATCTGGA GCCGGTGAGC GTGGGTCTCG CGGTATCATT GCAGCACTGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2645       2655       2665       2675       2685       2695              
+PLpro4subc   GGCCAGATGG TAAGCCCTCC CGTATCGTAG TTATCTACAC GACGGGGAGT CAGGCAACTA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2705       2715       2725       2735       2745       2755              
+PLpro4subc   TGGATGAACG AAATAGACAG ATCGCTGAGA TAGGTGCCTC ACTGATTAAG CATTGGTAAC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2765       2775       2785       2795       2805       2815              
+PLpro4subc   TGTCAGACCA AGTTTACTCA TATATACTTT AGATTGATTT AAAACTTCAT TTTTAATTTA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2825       2835       2845       2855       2865       2875              
+PLpro4subc   AAAGGATCTA GGTGAAGATC CTTTTTGATA ATCTCATGAC CAAAATCCCT TAACGTGAGT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2885       2895       2905       2915       2925       2935              
+PLpro4subc   TTTCGTTCCA CTGAGCGTCA GACCCCGTAG AAAAGATCAA AGGATCTTCT TGAGATCCTT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                2945       2955       2965       2975       2985       2995              
+PLpro4subc   TTTTTCTGCG CGTAATCTGC TGCTTGCAAA CAAAAAAACC ACCGCTACCA GCGGTGGTTT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3005       3015       3025       3035       3045       3055              
+PLpro4subc   GTTTGCCGGA TCAAGAGCTA CCAACTCTTT TTCCGAAGGT AACTGGCTTC AGCAGAGCGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3065       3075       3085       3095       3105       3115              
+PLpro4subc   AGATACCAAA TACTGTCCTT CTAGTGTAGC CGTAGTTAGG CCACCACTTC AAGAACTCTG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3125       3135       3145       3155       3165       3175              
+PLpro4subc   TAGCACCGCC TACATACCTC GCTCTGCTAA TCCTGTTACC AGTGGCTGCT GCCAGTGGCG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3185       3195       3205       3215       3225       3235              
+PLpro4subc   ATAAGTCGTG TCTTACCGGG TTGGACTCAA GACGATAGTT ACCGGATAAG GCGCAGCGGT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3245       3255       3265       3275       3285       3295              
+PLpro4subc   CGGGCTGAAC GGGGGGTTCG TGCACACAGC CCAGCTTGGA GCGAACGACC TACACCGAAC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3305       3315       3325       3335       3345       3355              
+PLpro4subc   TGAGATACCT ACAGCGTGAG CTATGAGAAA GCGCCACGCT TCCCGAAGGG AGAAAGGCGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3365       3375       3385       3395       3405       3415              
+PLpro4subc   ACAGGTATCC GGTAAGCGGC AGGGTCGGAA CAGGAGAGCG CACGAGGGAG CTTCCAGGGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3425       3435       3445       3455       3465       3475              
+PLpro4subc   GAAACGCCTG GTATCTTTAT AGTCCTGTCG GGTTTCGCCA CCTCTGACTT GAGCGTCGAT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3485       3495       3505       3515       3525       3535              
+PLpro4subc   TTTTGTGATG CTCGTCAGGG GGGCGGAGCC TATGGAAAAA CGCCAGCAAC GCGGCCTTTT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3545       3555       3565       3575       3585       3595              
+PLpro4subc   TACGGTTCCT GGCCTTTTGC TGGCCTTTTG CTCACATGTT CTTTCCTGCG TTATCCCCTG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3605       3615       3625       3635       3645       3655              
+PLpro4subc   ATTCTGTGGA TAACCGTATT ACCGCCTTTG AGTGAGCTGA TACCGCTCGC CGCAGCCGAA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3665       3675       3685       3695       3705       3715              
+PLpro4subc   CGACCGAGCG CAGCGAGTCA GTGAGCGAGG AAGCGGAAGA GCGCCTGATG CGGTATTTTC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3725       3735       3745       3755       3765       3775              
+PLpro4subc   TCCTTACGCA TCTGTGCGGT ATTTCACACC GCAATGGTGC ACTCTCAGTA CAATCTGCTC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3785       3795       3805       3815       3825       3835              
+PLpro4subc   TGATGCCGCA TAGTTAAGCC AGTATACACT CCGCTATCGC TACGTGACTG GGTCATGGCT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3845       3855       3865       3875       3885       3895              
+PLpro4subc   GCGCCCCGAC ACCCGCCAAC ACCCGCTGAC GCGCCCTGAC GGGCTTGTCT GCTCCCGGCA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3905       3915       3925       3935       3945       3955              
+PLpro4subc   TCCGCTTACA GACAAGCTGT GACCGTCTCC GGGAGCTGCA TGTGTCAGAG GTTTTCACCG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                3965       3975       3985       3995       4005       4015              
+PLpro4subc   TCATCACCGA AACGCGCGAG GCAGCTGCGG TAAAGCTCAT CAGCGTGGTC GTGAAGCGAT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4025       4035       4045       4055       4065       4075              
+PLpro4subc   TCACAGATGT CTGCCTGTTC ATCCGCGTCC AGCTCGTTGA GTTTCTCCAG AAGCGTTAAT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4085       4095       4105       4115       4125       4135              
+PLpro4subc   GTCTGGCTTC TGATAAAGCG GGCCATGTTA AGGGCGGTTT TTTCCTGTTT GGTCACTGAT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4145       4155       4165       4175       4185       4195              
+PLpro4subc   GCCTCCGTGT AAGGGGGATT TCTGTTCATG GGGGTAATGA TACCGATGAA ACGAGAGAGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4205       4215       4225       4235       4245       4255              
+PLpro4subc   ATGCTCACGA TACGGGTTAC TGATGATGAA CATGCCCGGT TACTGGAACG TTGTGAGGGT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4265       4275       4285       4295       4305       4315              
+PLpro4subc   AAACAACTGG CGGTATGGAT GCGGCGGGAC CAGAGAAAAA TCACTCAGGG TCAATGCCAG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4325       4335       4345       4355       4365       4375              
+PLpro4subc   CGCTTCGTTA ATACAGATGT AGGTGTTCCA CAGGGTAGCC AGCAGCATCC TGCGATGCAG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4385       4395       4405       4415       4425       4435              
+PLpro4subc   ATCCGGAACA TAATGGTGCA GGGCGCTGAC TTCCGCGTTT CCAGACTTTA CGAAACACGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4445       4455       4465       4475       4485       4495              
+PLpro4subc   AAACCGAAGA CCATTCATGT TGTTGCTCAG GTCGCAGACG TTTTGCAGCA GCAGTCGCTT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4505       4515       4525       4535       4545       4555              
+PLpro4subc   CACGTTCGCT CGCGTATCGG TGATTCATTC TGCTAACCAG TAAGGCAACC CCGCCAGCCT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4565       4575       4585       4595       4605       4615              
+PLpro4subc   AGCCGGGTCC TCAACGACAG GAGCACGATC ATGCGCACCC GTGGCCAGGA CCCAACGCTG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4625       4635       4645       4655       4665       4675              
+PLpro4subc   CCCGAGATGC GCCGCGTGCG GCTGCTGGAG ATGGCGGACG CGATGGATAT GTTCTGCCAA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4685       4695       4705       4715       4725       4735              
+PLpro4subc   GGGTTGGTTT GCGCATTCAC AGTTCTCCGC AAGAATTGAT TGGCTCCAAT TCTTGGAGTG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4745       4755       4765       4775       4785       4795              
+PLpro4subc   GTGAATCCGT TAGCGAGGTG CCGCCGGCTT CCATTCAGGT CGAGGTGGCC CGGCTCCATG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4805       4815       4825       4835       4845       4855              
+PLpro4subc   CACCGCGACG CAACGCGGGG AGGCAGACAA GGTATAGGGC GGCGCCTACA ATCCATGCCA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4865       4875       4885       4895       4905       4915              
+PLpro4subc   ACCCGTTCCA TGTGCTCGCC GAGGCGGCAT AAATCGCCGT GACGATCAGC GGTCCAATGA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4925       4935       4945       4955       4965       4975              
+PLpro4subc   TCGAAGTTAG GCTGGTAAGA GCCGCGAGCG ATCCTTGAAG CTGTCCCTGA TGGTCGTCAT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                4985       4995       5005       5015       5025       5035              
+PLpro4subc   CTACCTGCCT GGACAGCATG GCCTGCAACG CGGGCATCCC GATGCCGCCG GAAGCGAGAA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5045       5055       5065       5075       5085       5095              
+PLpro4subc   GAATCATAAT GGGGAAGGCC ATCCAGCCTC GCGTCGCGAA CGCCAGCAAG ACGTAGCCCA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5105       5115       5125       5135       5145       5155              
+PLpro4subc   GCGCGTCGGC CGCCATGCCG GCGATAATGG CCTGCTTCTC GCCGAAACGT TTGGTGGCGG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5165       5175       5185       5195       5205       5215              
+PLpro4subc   GACCAGTGAC GAAGGCTTGA GCGAGGGCGT GCAAGATTCC GAATACCGCA AGCGACAGGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5225       5235       5245       5255       5265       5275              
+PLpro4subc   CGATCATCGT CGCGCTCCAG CGAAAGCGGT CCTCGCCGAA AATGACCCAG AGCGCTGCCG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5285       5295       5305       5315       5325       5335              
+PLpro4subc   GCACCTGTCC TACGAGTTGC ATGATAAAGA AGACAGTCAT AAGTGCGGCG ACGATAGTCA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5345       5355       5365       5375       5385       5395              
+PLpro4subc   TGCCCCGCGC CCACCGGAAG GAGCTGACTG GGTTGAAGGC TCTCAAGGGC ATCGGTCGAG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5405       5415       5425       5435       5445       5455              
+PLpro4subc   ATCCCGGTGC CTAATGAGTG AGCTAACTTA CATTAATTGC GTTGCGCTCA CTGCCCGCTT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5465       5475       5485       5495       5505       5515              
+PLpro4subc   TCCAGTCGGG AAACCTGTCG TGCCAGCTGC ATTAATGAAT CGGCCAACGC GCGGGGAGAG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5525       5535       5545       5555       5565       5575              
+PLpro4subc   GCGGTTTGCG TATTGGGCGC CAGGGTGGTT TTTCTTTTCA CCAGTGAGAC GGGCAACAGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5585       5595       5605       5615       5625       5635              
+PLpro4subc   TGATTGCCCT TCACCGCCTG GCCCTGAGAG AGTTGCAGCA AGCGGTCCAC GCTGGTTTGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5645       5655       5665       5675       5685       5695              
+PLpro4subc   CCCAGCAGGC GAAAATCCTG TTTGATGGTG GTTAACGGCG GGATATAACA TGAGCTGTCT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5705       5715       5725       5735       5745       5755              
+PLpro4subc   TCGGTATCGT CGTATCCCAC TACCGAGATA TCCGCACCAA CGCGCAGCCC GGACTCGGTA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5765       5775       5785       5795       5805       5815              
+PLpro4subc   ATGGCGCGCA TTGCGCCCAG CGCCATCTGA TCGTTGGCAA CCAGCATCGC AGTGGGAACG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5825       5835       5845       5855       5865       5875              
+PLpro4subc   ATGCCCTCAT TCAGCATTTG CATGGTTTGT TGAAAACCGG ACATGGCACT CCAGTCGCCT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5885       5895       5905       5915       5925       5935              
+PLpro4subc   TCCCGTTCCG CTATCGGCTG AATTTGATTG CGAGTGAGAT ATTTATGCCA GCCAGCCAGA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                5945       5955       5965       5975       5985       5995              
+PLpro4subc   CGCAGACGCG CCGAGACAGA ACTTAATGGG CCCGCTAACA GCGCGATTTG CTGGTGACCC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6005       6015       6025       6035       6045       6055              
+PLpro4subc   AATGCGACCA GATGCTCCAC GCCCAGTCGC GTACCGTCTT CATGGGAGAA AATAATACTG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6065       6075       6085       6095       6105       6115              
+PLpro4subc   TTGATGGGTG TCTGGTCAGA GACATCAAGA AATAACGCCG GAACATTAGT GCAGGCAGCT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6125       6135       6145       6155       6165       6175              
+PLpro4subc   TCCACAGCAA TGGCATCCTG GTCATCCAGC GGATAGTTAA TGATCAGCCC ACTGACGCGT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6185       6195       6205       6215       6225       6235              
+PLpro4subc   TGCGCGAGAA GATTGTGCAC CGCCGCTTTA CAGGCTTCGA CGCCGCTTCG TTCTACCATC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6245       6255       6265       6275       6285       6295              
+PLpro4subc   GACACCACCA CGCTGGCACC CAGTTGATCG GCGCGAGATT TAATCGCCGC GACAATTTGC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6305       6315       6325       6335       6345       6355              
+PLpro4subc   GACGGCGCGT GCAGGGCCAG ACTGGAGGTG GCAACGCCAA TCAGCAACGA CTGTTTGCCC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6365       6375       6385       6395       6405       6415              
+PLpro4subc   GCCAGTTGTT GTGCCACGCG GTTGGGAATG TAATTCAGCT CCGCCATCGC CGCTTCCACT 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6425       6435       6445       6455       6465       6475              
+PLpro4subc   TTTTCCCGCG TTTTCGCAGA AACGTGGCTG GCCTGGTTCA CCACGCGGGA AACGGTCTGA 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6485       6495       6505       6515       6525       6535              
+PLpro4subc   TAAGAGACAC CGGCATACTC TGCGACATCG TATAACGTTA CTGGTTTCAC ATTCACCACC 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6545       6555       6565       6575       6585       6595              
+PLpro4subc   CTGAATTGAC TCTCTTCCGG GCGCTATCAT GCCATACCGC GAAAGGTTTT GCGCCATTCG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|....| ....|....| 
+                6605       6615       6625       6635       6645       6655              
+PLpro4subc   ATGGTGTCCG GGATCTCGAC GCTCTCCCTT ATGCGACTCC TGCATTAGGA AGCAGCCCAG 
+
+             ....|....| ....|....| ....|....| ....|....| ....|...
+                6665       6675       6685       6695       6705      
+PLpro4subc   TAGTAGGTTG AGGCCGTTGA GCACCGCCGC CGCAAGGAAT GGTGCATG
+
