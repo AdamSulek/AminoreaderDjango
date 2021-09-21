@@ -1,6 +1,6 @@
 # AminoreaderDjango
 
-**AminoReader** is a open-source project written in Django.  
+**AminoReader** is a open-source project written in Django as a web-design continuation of on-premise version (https://github.com/AdamSulek/AminoreaderDjango).
 It provides operations on files cotains sequence of nucleotides or aminoacids.
 
 
